@@ -1,5 +1,5 @@
 # Goh Seong Tae Project
-![Gost's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go0211&show_icons=true&theme=dark)
+![Gost's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go0211&show_icons=true&theme=dark&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhtjdxo)](https://solved.ac/rhtjdxo)
 
 
